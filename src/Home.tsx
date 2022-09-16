@@ -56,7 +56,7 @@ export const Home: FC<IProps> = ({ data }) => {
           <p>
             Here you can enter the contractual and customer data and <br />
             we will produce a new contract with the corresponding <br />
-            information for you, just like magic 🧙🏼‍♂️.
+            information for you, just like magic 🧙🏼‍♂️!
           </p>
         </>
       )}
